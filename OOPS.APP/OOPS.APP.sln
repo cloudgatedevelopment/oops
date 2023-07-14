@@ -5,7 +5,11 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Encapsulation", "Encapsulation", "{AA4E2AFE-93B6-41DD-9EA4-A7C0033FAAE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation.App", "Encapsulation.App\Encapsulation.App.csproj", "{7BE1B198-EE84-47A4-9673-3E1AD836E7D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation.App", "Encapsulation.App\Encapsulation.App.csproj", "{7BE1B198-EE84-47A4-9673-3E1AD836E7D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstraction", "Abstraction", "{A917E16F-6BEA-444C-9AD5-64E2DCE8990A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction.App", "Abstraction.App\Abstraction.App.csproj", "{767A0A43-195A-48CE-B9F8-EA3941102DE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{7BE1B198-EE84-47A4-9673-3E1AD836E7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BE1B198-EE84-47A4-9673-3E1AD836E7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BE1B198-EE84-47A4-9673-3E1AD836E7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767A0A43-195A-48CE-B9F8-EA3941102DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767A0A43-195A-48CE-B9F8-EA3941102DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767A0A43-195A-48CE-B9F8-EA3941102DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767A0A43-195A-48CE-B9F8-EA3941102DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7BE1B198-EE84-47A4-9673-3E1AD836E7D3} = {AA4E2AFE-93B6-41DD-9EA4-A7C0033FAAE5}
+		{767A0A43-195A-48CE-B9F8-EA3941102DE6} = {A917E16F-6BEA-444C-9AD5-64E2DCE8990A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B39DA7F-6902-4CE7-9763-6151680B38F4}

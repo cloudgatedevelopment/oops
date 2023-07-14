@@ -1,6 +1,8 @@
 ﻿namespace Encapsulation.App
 {
     /// <summary>
+    ///  Wrapping up a data member and a method together into
+    ///  a single unit (in other words, class) is called Encapsulation
     ///  Encapsulation, is to make sure that "sensitive" data is hidden from users
     /// </summary>
     public class TaxCalculator

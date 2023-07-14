@@ -12,3 +12,17 @@ C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\OOPS.APP\Enc
 C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.dll
 C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.pdb
 C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.genruntimeconfig.cache
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\bin\Debug\netcoreapp3.1\Encapsulation.App.exe
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\bin\Debug\netcoreapp3.1\Encapsulation.App.deps.json
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\bin\Debug\netcoreapp3.1\Encapsulation.App.runtimeconfig.json
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\bin\Debug\netcoreapp3.1\Encapsulation.App.runtimeconfig.dev.json
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\bin\Debug\netcoreapp3.1\Encapsulation.App.dll
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\bin\Debug\netcoreapp3.1\Encapsulation.App.pdb
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.csproj.AssemblyReference.cache
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.AssemblyInfoInputs.cache
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.AssemblyInfo.cs
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.csproj.CoreCompileInputs.cache
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.dll
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.pdb
+C:\Users\i31939\OneDrive - Verisk Analytics\Documents\Projects\Tech\repo\oops\OOPS.APP\Encapsulation.App\obj\Debug\netcoreapp3.1\Encapsulation.App.genruntimeconfig.cache
